@@ -1,2 +1,2 @@
 # TYPE2HEART
-Heart failure is a potential complication of type-2 diabetes, high blood pressure and age leading to disability or death. Recently, scientists have found that a new class of medications may be helpful for preventing heart failure in patients with diabetes but identifying those with the highest risk can be challenging. Therefore, we tried to develop a risk score that would classify whether the patient has highest risk of heart failure or not. The risk score predictor is going to be named as WDC-MATH which stands for {Weight [BMI], Diabetes, Creatinine, myocardial infarction (MI), Age, high blood pressure, HDL-C (High-density lipoprotein (HDL) cholesterol), all these parameters being the major reason behind a heart failure.
+
