@@ -63,6 +63,7 @@ The WDC-MATH project lays the foundation for ongoing research and development:
 This project was made possible by the collaborative efforts of dedicated contributors:
 
 - Wonjun Lee (Project Lead)
+- Zarak Shah Ji (Data Researcher)
 - Jahanzaib Malik (Data Researcher)
 
 ## 10. Acknowledgments
