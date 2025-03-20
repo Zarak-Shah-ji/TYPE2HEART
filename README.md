@@ -3,7 +3,7 @@
 # WDC-MATH: Heart Failure Risk Score Predictor
 
 ## Table of Contents
-
+ 
 1. Introduction
 2. Background
 3. Project Overview
